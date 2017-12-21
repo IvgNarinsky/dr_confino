@@ -32,10 +32,16 @@ div{
     border-radius: 5%;
     text-align: center;
     color:#f0e6e6;
-
-    
-
 }
+.img_1:hover{
+	box-shadow: 10px 10px rgba(20,20,20,0.1);
+}
+.img_2:hover{
+	box-shadow: 10px 10px rgba(20,20,20,0.1);
+	    background-color: #75ebeb;
+		    border-radius: 5%;
+
+	}
 
 #info {
       width:7%;
